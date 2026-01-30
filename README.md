@@ -1,4 +1,4 @@
-# GenAI & Data Science Bootcamp Planner 3.0
+# GenAI & Data Science Bootcamp 3.0 Planner 
 
 A personalized curriculum planning tool for the **Codebasics GenAI & Data Science Bootcamp**, designed to generate custom learning roadmaps based on student goals, background, and weekly availability.
 
