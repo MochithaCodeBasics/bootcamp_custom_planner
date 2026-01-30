@@ -1,9 +1,5 @@
 
 # User exclusions
-extract_docx.py
-PRD.md
-product_architect.md
-product_architect.ms
 *.docx
 
 # Python
