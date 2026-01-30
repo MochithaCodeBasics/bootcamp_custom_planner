@@ -29,3 +29,7 @@ A personalized curriculum planning tool for the **Codebasics GenAI & Data Scienc
 
 4.  **Open the application:**
     Visit [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Landing Page
+<img width="793" height="861" alt="Landingpage" src="https://github.com/user-attachments/assets/155804e7-626b-41c6-b99e-0e7b69a45218" />
+
