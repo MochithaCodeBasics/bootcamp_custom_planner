@@ -1,0 +1,16 @@
+
+# User exclusions
+extract_docx.py
+PRD.md
+product_architect.md
+product_architect.ms
+*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+.next/
+.env*
